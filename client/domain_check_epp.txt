@@ -1,1 +1,20 @@
+/* -----------------
+REQUEST 
+------------------- */
 
+{
+  "domains": ["example.com", "mytestdomain123.net"]
+}
+
+
+/* ------------------
+RESPOSNE
+-------------------- */
+
+{
+  "success": true,
+  "availability": {
+    "example.com": "unavailable",
+    "tygtghge.net": "available"
+  }
+}
