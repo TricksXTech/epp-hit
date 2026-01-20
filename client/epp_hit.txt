@@ -1,0 +1,24 @@
+/* ------------------------
+  SEND REQUEST
+------------------------- */
+
+POST /epp_hit.php
+Content-Type: application/json
+
+-->
+{
+  "action": "domain_check",
+  "domains": ["example.com", "example.net"],
+  "clTRID": "TX-9001"
+}
+
+
+/* ------------------------
+  REQUEST RESPONSE
+------------------------- */
+
+{
+  "result_code": "1000",
+  "message": "Command completed successfully",
+  "raw_xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>..."
+}
