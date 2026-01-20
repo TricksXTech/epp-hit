@@ -1,0 +1,16 @@
+-> Register ( With Pending System Approval By Main Admin Manually )
+-> Login ( After Approval )
+----------------------------------------------------------------------------------------------------------------------------------------
+
+-> Packages ( Splitted Into 3-5 Parts Min 3 )
+ - Bronze
+ - Slver 
+ - Gold
+ - Platinum ( if needed )
+ - Diamond ( if needed )
+
+-> Wallet System
+ - Add Funds ( Manually Check For Security Purpose )
+ - Code System ( For Users Who Can Pay In INR )
+
+-> Chain Reseller
